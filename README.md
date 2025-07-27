@@ -1,2 +1,2 @@
 # Pandas
-Detail pandas code
+Detail pandas code with comments
